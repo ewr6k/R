@@ -30,3 +30,18 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3
 Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++
+
+Package: com.deadtweak.com 
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: R
+Depends: --
+Conflicts: --
+Filename: debs/com.deadtweak.com-1.7.1-iphoneos-arm (3).deb
+Size:7373560 
+MD5sum:57e9584a926b231d9b60904b7dd4c98d
+SHA1:a63fc196d7c4554d07589c396f74cb70fa1f0414 
+SHA256: 0d006ea09f3d5c1bf4e991ac692fc8c5aef55b58ce3b87235ac8e08c980014b7
+Section: Tweaks
+Depiction: https://www.instagram.com/6.wwq/ 
+Name: ”‰«» »—Ìﬂ «·‰”Œ… «·„⁄œ·Â
